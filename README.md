@@ -1,4 +1,4 @@
-# custom_tab
+# Custom TabLayout
 
 A new Flutter project to create custom tab layout using ScrollablePositionedList.
 
